@@ -2,7 +2,7 @@
 
 ![vitask](https://i.imgur.com/Y3BukjL.png)
 
-Try it by [click here](vittask.surge.sh).
+Try it by [click here](http://vittask.surge.sh/).
 
 ## Available Scripts
 
